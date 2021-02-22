@@ -1,0 +1,5 @@
+4
+Jan Kowalski, Jan Kowalski2, Jan Kowalski3, Jan Kowalski4, Jan Kowalski5, Metro, 2017, 55.0, 8
+Jan Kowalski, Jan Kowalski2, 0, 0, 0, JakisTytul, 2020, 112.0, 9.5
+Jan Kowalski, Jan Kowalski2, Jan Kowalski3, 0, 0, Metro, 2007, 96.0, 6.5
+Jan Kowal, Jan Kowalski, 0, 0, 0, Niedzwiedz, 2130, 89.65, 4
